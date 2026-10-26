@@ -1,0 +1,760 @@
+{
+  "fps": 30,
+  "previewEnd": 640,
+  "end": 1908,
+  "beatFrames": 16.02,
+  "beatAnchor": 511,
+  "dotIn": 4,
+  "lineDraw": 36,
+  "label1": 52,
+  "label100": 68,
+  "march": {
+    "start": 194,
+    "end": 289,
+    "from": 1,
+    "to": 40,
+    "power": 2
+  },
+  "worst": 289,
+  "buildStart": 322,
+  "riserStart": 418,
+  "dimStart": 495,
+  "black": 508,
+  "drop": 511,
+  "term": 520,
+  "dropOut": 576,
+  "redraw": 601,
+  "game": {
+    "guesses": [
+      {
+        "f": 671,
+        "n": 50,
+        "fb": "小了",
+        "lo": 51,
+        "hi": 100,
+        "fbAt": 681,
+        "cut": 698,
+        "z0": 701,
+        "z1": 729
+      },
+      {
+        "f": 735,
+        "n": 75,
+        "fb": "小了",
+        "lo": 76,
+        "hi": 100,
+        "fbAt": 745,
+        "cut": 761,
+        "z0": 764,
+        "z1": 792
+      },
+      {
+        "f": 797,
+        "n": 88,
+        "fb": "大了",
+        "lo": 76,
+        "hi": 87,
+        "fbAt": 808,
+        "cut": 817,
+        "z0": 820,
+        "z1": 841
+      },
+      {
+        "f": 845,
+        "n": 81,
+        "fb": "小了",
+        "lo": 82,
+        "hi": 87,
+        "fbAt": 856,
+        "cut": 865,
+        "z0": 868,
+        "z1": 889
+      },
+      {
+        "f": 894,
+        "n": 84,
+        "fb": "大了",
+        "lo": 82,
+        "hi": 83,
+        "fbAt": 901,
+        "cut": 907,
+        "z0": 910,
+        "z1": 923
+      },
+      {
+        "f": 925,
+        "n": 82,
+        "fb": "小了",
+        "lo": 83,
+        "hi": 83,
+        "fbAt": 932,
+        "cut": 938,
+        "z0": 942,
+        "z1": 954
+      },
+      {
+        "f": 956,
+        "n": 83,
+        "fb": "中",
+        "lo": 83,
+        "hi": 83,
+        "fbAt": -1,
+        "cut": -1,
+        "z0": -1,
+        "z1": -1
+      }
+    ],
+    "zoomOut": [
+      1004,
+      1036
+    ],
+    "restore": [
+      1019,
+      1036
+    ]
+  },
+  "why": {
+    "rise": [
+      1036,
+      1051
+    ],
+    "rows": [
+      1051,
+      1068,
+      1083,
+      1099,
+      1115,
+      1131
+    ],
+    "fadeOut": [
+      1155,
+      1168
+    ],
+    "terms": [
+      1163,
+      1179,
+      1195,
+      1210,
+      1227,
+      1242,
+      1258
+    ],
+    "eq": 1274,
+    "out": [
+      1291,
+      1303
+    ]
+  },
+  "scale": {
+    "in": [
+      1294,
+      1306
+    ],
+    "startK": 7,
+    "roll": 13,
+    "keys": [
+      {
+        "f": 1321,
+        "k": 10
+      },
+      {
+        "f": 1369,
+        "k": 20
+      },
+      {
+        "f": 1417,
+        "k": 30
+      }
+    ],
+    "dim": [
+      1449,
+      1461
+    ],
+    "pickup": 1456,
+    "drop": 1464,
+    "shrink": [
+      1505,
+      1534
+    ]
+  },
+  "outro": {
+    "line": 1545,
+    "cuts": [
+      1576,
+      1607,
+      1639,
+      1671,
+      1702,
+      1734,
+      1766
+    ],
+    "question": 1813,
+    "questionOut": [
+      1881,
+      1897
+    ],
+    "collapse": [
+      1871,
+      1890
+    ],
+    "dotOut": [
+      1893,
+      1906
+    ],
+    "bgmFade": [
+      1871,
+      1907
+    ]
+  },
+  "subs": [
+    {
+      "from": 68,
+      "to": 128,
+      "text": "我心里想了一个数，在 1 到 100 之间"
+    },
+    {
+      "from": 131,
+      "to": 190,
+      "text": "你来猜，我只回答：大了，还是小了"
+    },
+    {
+      "from": 194,
+      "to": 286,
+      "text": "最笨的办法：从 1 开始，一个一个试"
+    },
+    {
+      "from": 289,
+      "to": 318,
+      "text": "运气最差，要猜 100 次"
+    },
+    {
+      "from": 322,
+      "to": 381,
+      "text": "有没有一种猜法——"
+    },
+    {
+      "from": 385,
+      "to": 445,
+      "text": "不管我想的是几，都能稳稳猜中？"
+    },
+    {
+      "from": 448,
+      "to": 500,
+      "text": "答案，少得惊人"
+    },
+    {
+      "from": 612,
+      "to": 667,
+      "text": "秘诀只有一句：每次，都猜正中间"
+    },
+    {
+      "from": 674,
+      "to": 729,
+      "text": "猜 50 ——「小了」：左边这一半，全部作废"
+    },
+    {
+      "from": 738,
+      "to": 790,
+      "text": "再猜剩下的正中间：75"
+    },
+    {
+      "from": 801,
+      "to": 886,
+      "text": "每猜一次，范围就砍掉一半"
+    },
+    {
+      "from": 895,
+      "to": 947,
+      "text": "越来越近……"
+    },
+    {
+      "from": 964,
+      "to": 999,
+      "text": "第 7 次，猜中"
+    },
+    {
+      "from": 1045,
+      "to": 1122,
+      "text": "每猜一次，剩下的就少一半"
+    },
+    {
+      "from": 1133,
+      "to": 1156,
+      "text": "砍到第 7 次，只剩它"
+    },
+    {
+      "from": 1166,
+      "to": 1252,
+      "text": "反过来看：每多猜 1 次，能管住的数就翻一倍"
+    },
+    {
+      "from": 1277,
+      "to": 1315,
+      "text": "7 次能管住 128 个数——100 个，绰绰有余"
+    },
+    {
+      "from": 1325,
+      "to": 1409,
+      "text": "数字越大，这个办法越吓人"
+    },
+    {
+      "from": 1419,
+      "to": 1453,
+      "text": "那全世界 80 亿人呢？"
+    },
+    {
+      "from": 1471,
+      "to": 1511,
+      "text": "从 80 亿人里找出你，最多 33 次"
+    },
+    {
+      "from": 1552,
+      "to": 1630,
+      "text": "二分法真正厉害的，不是猜得准"
+    },
+    {
+      "from": 1639,
+      "to": 1724,
+      "text": "而是每一步，都敢把一半的可能，干脆放下"
+    },
+    {
+      "from": 1734,
+      "to": 1806,
+      "text": "不赌哪个对，只问：哪一半可以不要"
+    }
+  ],
+  "sfx": [
+    {
+      "frame": 4,
+      "type": "bell",
+      "note": "F5",
+      "gain": 0.1
+    },
+    {
+      "frame": 36,
+      "type": "lineDraw",
+      "gain": 0.55
+    },
+    {
+      "frame": 52,
+      "type": "marimba",
+      "note": "C4",
+      "gain": 0.32
+    },
+    {
+      "frame": 68,
+      "type": "marimba",
+      "note": "F4",
+      "gain": 0.32
+    },
+    {
+      "frame": 289,
+      "type": "thud",
+      "gain": 0.6
+    },
+    {
+      "frame": 289,
+      "type": "zip",
+      "gain": 0.22
+    },
+    {
+      "frame": 418,
+      "type": "riser",
+      "until": 508,
+      "gain": 0.3
+    },
+    {
+      "frame": 511,
+      "type": "impact",
+      "gain": 0.95
+    },
+    {
+      "frame": 520,
+      "type": "shimmer",
+      "gain": 0.16
+    },
+    {
+      "frame": 576,
+      "type": "suck",
+      "until": 601,
+      "gain": 0.3
+    },
+    {
+      "frame": 601,
+      "type": "lineDraw",
+      "gain": 0.4
+    },
+    {
+      "frame": 601,
+      "type": "marimba",
+      "note": "F4",
+      "gain": 0.3
+    },
+    {
+      "frame": 671,
+      "type": "marimba",
+      "note": "F3",
+      "gain": 0.36,
+      "pan": 0
+    },
+    {
+      "frame": 698,
+      "type": "whoosh",
+      "gain": 0.24,
+      "pan": -0.6
+    },
+    {
+      "frame": 735,
+      "type": "marimba",
+      "note": "G#3",
+      "gain": 0.34,
+      "pan": 0
+    },
+    {
+      "frame": 761,
+      "type": "whoosh",
+      "gain": 0.22,
+      "pan": -0.6
+    },
+    {
+      "frame": 797,
+      "type": "marimba",
+      "note": "A#3",
+      "gain": 0.32,
+      "pan": 0
+    },
+    {
+      "frame": 817,
+      "type": "whoosh",
+      "gain": 0.22,
+      "pan": 0.6
+    },
+    {
+      "frame": 845,
+      "type": "marimba",
+      "note": "C4",
+      "gain": 0.3,
+      "pan": 0
+    },
+    {
+      "frame": 865,
+      "type": "whoosh",
+      "gain": 0.2,
+      "pan": -0.6
+    },
+    {
+      "frame": 894,
+      "type": "marimba",
+      "note": "D#4",
+      "gain": 0.3,
+      "pan": 0
+    },
+    {
+      "frame": 907,
+      "type": "whoosh",
+      "gain": 0.18,
+      "pan": 0.6
+    },
+    {
+      "frame": 925,
+      "type": "marimba",
+      "note": "F4",
+      "gain": 0.3,
+      "pan": 0
+    },
+    {
+      "frame": 938,
+      "type": "whoosh",
+      "gain": 0.18,
+      "pan": -0.6
+    },
+    {
+      "frame": 956,
+      "type": "marimba",
+      "note": "C5",
+      "gain": 0.3,
+      "pan": 0
+    },
+    {
+      "frame": 956,
+      "type": "shimmer",
+      "gain": 0.2
+    },
+    {
+      "frame": 956,
+      "type": "thud",
+      "gain": 0.3
+    },
+    {
+      "frame": 1004,
+      "type": "lineDraw",
+      "gain": 0.28
+    },
+    {
+      "frame": 1051,
+      "type": "marimba",
+      "note": "F4",
+      "gain": 0.24,
+      "pan": 0.3
+    },
+    {
+      "frame": 1068,
+      "type": "marimba",
+      "note": "D#4",
+      "gain": 0.24,
+      "pan": 0.3
+    },
+    {
+      "frame": 1083,
+      "type": "marimba",
+      "note": "C4",
+      "gain": 0.24,
+      "pan": 0.25
+    },
+    {
+      "frame": 1099,
+      "type": "marimba",
+      "note": "A#3",
+      "gain": 0.24,
+      "pan": 0.25
+    },
+    {
+      "frame": 1115,
+      "type": "marimba",
+      "note": "G#3",
+      "gain": 0.24,
+      "pan": 0.25
+    },
+    {
+      "frame": 1131,
+      "type": "marimba",
+      "note": "F3",
+      "gain": 0.3,
+      "pan": 0.25
+    },
+    {
+      "frame": 1131,
+      "type": "bell",
+      "note": "C5",
+      "gain": 0.16
+    },
+    {
+      "frame": 1163,
+      "type": "marimba",
+      "note": "F3",
+      "gain": 0.26,
+      "pan": -0.5
+    },
+    {
+      "frame": 1179,
+      "type": "marimba",
+      "note": "G3",
+      "gain": 0.26,
+      "pan": -0.35
+    },
+    {
+      "frame": 1195,
+      "type": "marimba",
+      "note": "G#3",
+      "gain": 0.26,
+      "pan": -0.2
+    },
+    {
+      "frame": 1210,
+      "type": "marimba",
+      "note": "A#3",
+      "gain": 0.26,
+      "pan": 0
+    },
+    {
+      "frame": 1227,
+      "type": "marimba",
+      "note": "C4",
+      "gain": 0.26,
+      "pan": 0.15
+    },
+    {
+      "frame": 1242,
+      "type": "marimba",
+      "note": "C#4",
+      "gain": 0.26,
+      "pan": 0.3
+    },
+    {
+      "frame": 1258,
+      "type": "marimba",
+      "note": "D#4",
+      "gain": 0.26,
+      "pan": 0.4
+    },
+    {
+      "frame": 1274,
+      "type": "marimba",
+      "note": "F4",
+      "gain": 0.3,
+      "pan": 0.5
+    },
+    {
+      "frame": 1274,
+      "type": "shimmer",
+      "gain": 0.15
+    },
+    {
+      "frame": 1321,
+      "type": "marimba",
+      "note": "F4",
+      "gain": 0.3,
+      "pan": 0
+    },
+    {
+      "frame": 1369,
+      "type": "marimba",
+      "note": "G#4",
+      "gain": 0.3,
+      "pan": 0
+    },
+    {
+      "frame": 1417,
+      "type": "marimba",
+      "note": "C5",
+      "gain": 0.3,
+      "pan": 0
+    },
+    {
+      "frame": 1411,
+      "type": "riser",
+      "until": 1461,
+      "gain": 0.26
+    },
+    {
+      "frame": 1464,
+      "type": "impact",
+      "gain": 0.72
+    },
+    {
+      "frame": 1474,
+      "type": "shimmer",
+      "gain": 0.12
+    },
+    {
+      "frame": 1505,
+      "type": "suck",
+      "until": 1534,
+      "gain": 0.24
+    },
+    {
+      "frame": 1545,
+      "type": "lineDraw",
+      "gain": 0.34
+    },
+    {
+      "frame": 1576,
+      "type": "marimba",
+      "note": "C4",
+      "gain": 0.2,
+      "pan": 0
+    },
+    {
+      "frame": 1579,
+      "type": "whoosh",
+      "gain": 0.1,
+      "pan": 0.6
+    },
+    {
+      "frame": 1607,
+      "type": "marimba",
+      "note": "G#3",
+      "gain": 0.2,
+      "pan": 0
+    },
+    {
+      "frame": 1610,
+      "type": "whoosh",
+      "gain": 0.1,
+      "pan": -0.6
+    },
+    {
+      "frame": 1639,
+      "type": "marimba",
+      "note": "A#3",
+      "gain": 0.2,
+      "pan": 0
+    },
+    {
+      "frame": 1642,
+      "type": "whoosh",
+      "gain": 0.1,
+      "pan": 0.6
+    },
+    {
+      "frame": 1671,
+      "type": "marimba",
+      "note": "F3",
+      "gain": 0.2,
+      "pan": 0
+    },
+    {
+      "frame": 1674,
+      "type": "whoosh",
+      "gain": 0.1,
+      "pan": -0.6
+    },
+    {
+      "frame": 1702,
+      "type": "marimba",
+      "note": "G#3",
+      "gain": 0.18,
+      "pan": 0
+    },
+    {
+      "frame": 1706,
+      "type": "whoosh",
+      "gain": 0.09,
+      "pan": 0.6
+    },
+    {
+      "frame": 1734,
+      "type": "marimba",
+      "note": "D#3",
+      "gain": 0.18,
+      "pan": 0
+    },
+    {
+      "frame": 1737,
+      "type": "whoosh",
+      "gain": 0.09,
+      "pan": -0.6
+    },
+    {
+      "frame": 1766,
+      "type": "marimba",
+      "note": "F3",
+      "gain": 0.18,
+      "pan": 0
+    },
+    {
+      "frame": 1769,
+      "type": "whoosh",
+      "gain": 0.08,
+      "pan": 0.6
+    },
+    {
+      "frame": 1813,
+      "type": "bell",
+      "note": "F4",
+      "gain": 0.12
+    },
+    {
+      "frame": 1871,
+      "type": "suck",
+      "until": 1890,
+      "gain": 0.18
+    },
+    {
+      "frame": 1893,
+      "type": "bell",
+      "note": "F5",
+      "gain": 0.1
+    }
+  ]
+}

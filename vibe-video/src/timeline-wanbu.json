@@ -1,0 +1,32 @@
+{
+  "fps": 30,
+  "previewEnd": 1200,
+  "end": 1200,
+
+  "march": { "start": 0, "end": 0, "from": 1, "to": 1, "power": 1 },
+
+  "sfx": [
+    { "frame": 34, "type": "bell", "note": "F5", "gain": 0.10 },
+    { "frame": 98, "type": "whoosh", "gain": 0.20, "pan": 0.3 },
+    { "frame": 256, "type": "lineDraw", "gain": 0.30 },
+    { "frame": 304, "type": "marimba", "note": "F4", "gain": 0.22, "pan": 0.2 },
+    { "frame": 385, "type": "riser", "until": 511, "gain": 0.34 },
+    { "frame": 511, "type": "impact", "gain": 0.95 },
+    { "frame": 527, "type": "shimmer", "gain": 0.18 },
+    { "frame": 575, "type": "marimba", "note": "F4", "gain": 0.28, "pan": 0 },
+    { "frame": 606, "type": "bell", "note": "F5", "gain": 0.12 },
+    { "frame": 701, "type": "marimba", "note": "C5", "gain": 0.26, "pan": 0 },
+    { "frame": 717, "type": "thud", "gain": 0.55 },
+    { "frame": 734, "type": "thud", "gain": 0.50 },
+    { "frame": 750, "type": "thud", "gain": 0.50 },
+    { "frame": 860, "type": "thud", "gain": 0.55 },
+    { "frame": 876, "type": "bell", "note": "D#4", "gain": 0.22, "pan": -0.4 },
+    { "frame": 892, "type": "bell", "note": "C4", "gain": 0.22, "pan": -0.2 },
+    { "frame": 908, "type": "bell", "note": "A#3", "gain": 0.22, "pan": 0.1 },
+    { "frame": 924, "type": "bell", "note": "G#3", "gain": 0.22, "pan": 0.3 },
+    { "frame": 1019, "type": "lineDraw", "gain": 0.32 },
+    { "frame": 1051, "type": "marimba", "note": "F4", "gain": 0.26, "pan": 0 },
+    { "frame": 1115, "type": "bell", "note": "F5", "gain": 0.14 },
+    { "frame": 1194, "type": "marimba", "note": "C5", "gain": 0.20, "pan": 0.3 }
+  ]
+}
